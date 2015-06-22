@@ -12,13 +12,13 @@ Listen to the records and type down (in cantonese) what you've heard.
 # Talk
 
 ## Repeat
-what you've listened in the **Listening** part
+Repeat what you've listened in the **Listening** part
 
 ## Free Talk
-talk about what [you have done / the happiest thing] today. (2-3 sentences)
+Talk about what [you have done / the happiest thing] today. (2-3 sentences)
 
 # Reading
-Read out loud all full sentence, do not break, send the records.
+Read all full sentences out loud , do not break, send the records.
 
 # Writing
 
@@ -28,7 +28,5 @@ Read out loud all full sentence, do not break, send the records.
 
 # Challenges
 
-
-
-
+## Long Sentence Repeat
 
